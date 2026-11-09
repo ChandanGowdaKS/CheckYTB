@@ -9,3 +9,4 @@ Rows: | made | topic | style | title | video id | slot (IST) | status | — stat
 | 2026-11-08 | What happens if you drink too much water (water intoxication) | deep-dive | What Happens If You Drink Too Much Water? #shorts | A8afigJ0s9U | 2026-11-09 04:00 | scheduled |
 | 2026-11-09 | What would happen if you jumped into Jupiter (no surface, Galileo probe, metallic hydrogen) | inside-out | What If You Jumped Into Jupiter? #shorts | 0G6DOBtnCC4 | 2026-11-09 18:00 | scheduled |
 | 2026-11-09 | The Great Emu War of 1932 (Australian army vs emus, jammed Lewis gun, truck chase, ten bullets per bird) | tall-tale | Australia Went to War With Emus. And Lost. #shorts | YGWUF_Uxlmg | 2026-11-10 04:00 | scheduled |
+| 2026-11-09 | The Bloop, 1997 (NOAA/Navy hydrophones, loud rising groan, Lovecraft R'lyeh coincidence, solved as an Antarctic icequake) | night-file | What Was the Bloop? The Ocean's Creepiest Sound #shorts | 9SW9-95tHqY | 2026-11-10 18:00 | scheduled |
